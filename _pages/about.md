@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -25,8 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm **Talor Abramovich**, an MSc student in *Computer Science* at **Tel Aviv University** since January 2024. I'm co-advised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Prof. Amir Globerson](https://cs3801.wixsite.com/amirgloberson), and conduct my research as part of the [*Learning Systems Lab*](https://chechiklab.biu.ac.il/) at Bar-Ilan University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m also a senior software engineer at **NVIDIA Israel**, currently working as an MLOps engineer.  
+My research focuses on using language models to autonomously complete complex end-to-end tasks, such as conducting scientific research or discovering security vulnerabilities. You can explore my recent work on the [publications](publications/) page.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining NVIDIA, I was a senior software engineer at **Deci.AI** (acquired by NVIDIA), and earlier served as a cybersecurity researcher in the **Israel Intelligence** community. I hold a **Bachelor’s degree in Computer Engineering** from the **Technion**, graduating *summa cum laude*.
+
+
