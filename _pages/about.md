@@ -30,7 +30,7 @@ I’m also a senior software engineer at **NVIDIA Israel**, currently working as
 
 My research focuses on using language models to autonomously complete complex end-to-end tasks, such as conducting scientific research or discovering security vulnerabilities. You can explore my recent work on the [publications](publications/) page.
 
-Previously, I was a senior software engineer at **Deci.AI** (acquired by NVIDIA), and earlier served as a cybersecurity researcher in the **Israel Intelligence** community. 
+Previously, I was a senior software engineer at **Deci.AI** (acquired by NVIDIA), and earlier served as a cybersecurity researcher in the **Israel Intelligence**. 
 
 I hold a **Bachelor’s degree in Computer Engineering** from the **Technion**, graduating *summa cum laude*.
 
