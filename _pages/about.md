@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Talor Abramovich**, an MSc student in *Computer Science* at **Tel Aviv University** since January 2024. I'm co-advised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Prof. Amir Globerson](https://cs3801.wixsite.com/amirgloberson), and conduct my research as part of the [*Learning Systems Lab*](https://chechiklab.biu.ac.il/) at Bar-Ilan University.
+Hi, I'm **Talor Abramovich**, an MSc student in *Computer Science* at **Tel Aviv University** since January 2024. I'm co-advised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Prof. Amir Globerson](https://cs3801.wixsite.com/amirgloberson), and conduct my research as part of the [*Learning Systems Lab*](https://chechiklab.biu.ac.il/) at Bar-Ilan University. I was also advised by [Dr. Ofir Press](https://ofir.io/) between 2024-2025 as part of the NLP course in Tel Aviv University, where our research [EnIGMA](https://enigma-agent.com) got published in ICML 2025.
 I’m also a senior software engineer at **NVIDIA Israel**, currently working as an MLOps engineer.  
 
-My research focuses on using language models to autonomously complete complex end-to-end tasks, such as conducting scientific research or discovering security vulnerabilities. You can explore my recent work on the [publications](publications/) page.
+My research focuses on using language models to autonomously complete complex end-to-end tasks, such as conducting scientific research or discovering security vulnerabilities. I am generally interested about LM agents, LM evaluations and reinforcement learning. You can explore my recent papers on the [publications](publications/) page.
 
 Previously, I was a senior software engineer at **Deci.AI** (acquired by NVIDIA), and earlier served as a cybersecurity researcher in the **Israel Intelligence**. 
 

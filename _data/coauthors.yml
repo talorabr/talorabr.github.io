@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"ofir":
+  - firstname: ["Ofir", "O.", "O. P.", "Ofir Press"]
+    url: https://ofir.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"udeshi":
+  - firstname: ["Meet", "Meet Udeshi"]
+    url: https://moneyman.mudeshi.in/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"minghao":
+  - firstname: ["Minghao", "Minghao Shao"]
+    url: https://www.linkedin.com/in/shao-minghao/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kilian":
+  - firstname: ["Kilian", "Kilian Lieret"]
+    url: https://www.lieret.net/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"haoran":
+  - firstname: ["Haoran", "Haoran Xi"]
+    url: https://www.linkedin.com/in/haoran-xi-22841327b/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"john":
+  - firstname: ["John", "John Yang"]
+    url: https://john-b-yang.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"carlos":
+  - firstname: ["Carlos", "Carlos E. Jimenez"]
+    url: https://www.carlosejimenez.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"benisty":
+  - firstname: ["Hadas", "Hadas Benisty"]
+    url: https://sites.google.com/view/benistylab/home?authuser=0
