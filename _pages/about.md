@@ -26,8 +26,8 @@ latest_posts:
 ---
 
 Hi, I'm **Talor Abramovich**, an MSc student in *Computer Science* at **Tel Aviv University** since January 2024. I'm co-advised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Prof. Amir Globerson](https://cs3801.wixsite.com/amirgloberson), and conduct my research as part of the [*Learning Systems Lab*](https://chechiklab.biu.ac.il/) at Bar-Ilan University.
-
 I’m also a senior software engineer at **NVIDIA Israel**, currently working as an MLOps engineer.  
+
 My research focuses on using language models to autonomously complete complex end-to-end tasks, such as conducting scientific research or discovering security vulnerabilities. You can explore my recent work on the [publications](publications/) page.
 
 Before joining NVIDIA, I was a senior software engineer at **Deci.AI** (acquired by NVIDIA), and earlier served as a cybersecurity researcher in the **Israel Intelligence** community. I hold a **Bachelor’s degree in Computer Engineering** from the **Technion**, graduating *summa cum laude*.
