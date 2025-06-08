@@ -26,11 +26,14 @@ latest_posts:
 ---
 
 Hi, I'm **Talor Abramovich**, an MSc student in *Computer Science* at **Tel Aviv University** since January 2024. I'm co-advised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Prof. Amir Globerson](https://cs3801.wixsite.com/amirgloberson), and conduct my research as part of the [*Learning Systems Lab*](https://chechiklab.biu.ac.il/) at Bar-Ilan University. I was also advised by [Dr. Ofir Press](https://ofir.io/) between 2024-2025 as part of the NLP course in Tel Aviv University, where our research [EnIGMA](https://enigma-agent.com) got published in ICML 2025.
-I’m also a senior software engineer at **NVIDIA Israel**, currently working as an MLOps engineer.  
 
-My research focuses on using language models to autonomously complete complex end-to-end tasks, such as conducting scientific research or discovering security vulnerabilities. I am generally interested about LM agents, LM evaluations and reinforcement learning. You can explore my recent papers on the [publications](publications/) page.
+Hi, I'm **Talor Abramovich**, an MSc student in *Computer Science* at **Tel Aviv University**  since January 2024. I’m co-advised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Prof. Amir Globerson](https://cs3801.wixsite.com/amirgloberson), and conduct my research as part of the [*Learning Systems Lab*](https://chechiklab.biu.ac.il/) at Bar-Ilan University.
+I was also advised by [Dr. Ofir Press](https://ofir.io/) through the NLP course at Tel Aviv University. Our collaborative work, [EnIGMA](https://enigma-agent.com), was published at **ICML 2025**.
 
-Previously, I was a senior software engineer at **Deci.AI** (acquired by NVIDIA), and earlier served as a cybersecurity researcher in the **Israel Intelligence**. 
+My research explores how language models can autonomously perform complex end-to-end tasks, such as conducting scientific research or identifying security vulnerabilities. More broadly, I'm interested in LM agents, evaluation of language models, and reinforcement learning. You can find my recent work on the [publications](publications/) page.
+
+I’m also a senior software engineer at **NVIDIA Israel**, currently working as an MLOps engineer, where I develop infrastructure for training large language and vision models.  
+Earlier in my career, I served as a cybersecurity researcher in the **Israeli Intelligence**.
 
 I hold a **Bachelor’s degree in Computer Engineering** from the **Technion**, graduating *summa cum laude*.
 
